@@ -8,7 +8,7 @@ Please cite the associated paper if you are using this code.
 
 [Continual Learning for Out-of-Distribution Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/10222758)
 
-[Poster presented in ICIP 2023](https://ieeexplore.ieee.org/abstract/document/10222758)
+[Poster presented in ICIP 2023](https://github.com/MahdiyarMM/Continual-pedestrian-detection/blob/main/poster/Poster_ICIP2023.pdf)
 
 ```
 @inproceedings{molahasani2023continual,
