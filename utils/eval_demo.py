@@ -1,6 +1,6 @@
 import os
-from eval_city.eval_script.coco import COCO
-from eval_city.eval_script.eval_MR_multisetup import COCOeval
+from utils.coco import COCO
+from utils.eval_MR_multisetup import COCOeval
 
 
 def validate(annFile, dt_path):
