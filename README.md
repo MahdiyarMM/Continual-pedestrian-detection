@@ -7,6 +7,9 @@ Out-of-Distribution Continual Pedestrian Detection
 Please cite the associated paper if you are using this code.
 
 [Continual Learning for Out-of-Distribution Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/10222758)
+
+[Poster presented in ICIP 2023](https://ieeexplore.ieee.org/abstract/document/10222758)
+
 ```
 @inproceedings{molahasani2023continual,
   title={Continual Learning for Out-of-Distribution Pedestrian Detection},
