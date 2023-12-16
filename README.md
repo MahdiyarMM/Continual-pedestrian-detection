@@ -6,7 +6,7 @@ Out-of-Distribution Continual Pedestrian Detection
 
 Please cite the associated paper if you are using this code.
 
-[MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution](https://ieeexplore.ieee.org/abstract/document/9051244)
+[Continual Learning for Out-of-Distribution Pedestrian Detection](https://ieeexplore.ieee.org/abstract/document/9051244)
 ```
 @inproceedings{molahasani2023continual,
   title={Continual Learning for Out-of-Distribution Pedestrian Detection},
